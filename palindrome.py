@@ -1,4 +1,4 @@
-Add Two Sum leetcode problem 
+Palindrome leetcode problem 
 def isPalindrome(x):
   if x < 0 :
     return False
